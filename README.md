@@ -1,5 +1,5 @@
 
-#  First Internship Project at Jotform
+#  Landing Page Project at Jotform
 
 I coded the landing page project, my first internship project at Jotform, which I started as a UI Developer intern.
 
